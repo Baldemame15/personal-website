@@ -1,0 +1,36 @@
+
+h1{
+  color:blue;
+  font-size: 80px;
+  display: block;
+  margin-bottom:50px;
+}
+
+#entire {
+  display: block;
+  margin-top: 40px;
+}
+
+#links{
+  font-size: 40px;
+  display: block;
+  margin-bottom: 50px;
+}
+
+#links a {
+  color:#18c178;
+
+}
+#title{
+  color:blue;
+  font-size: 80px;
+  display: block;
+
+}
+#articles a {
+  color:#18c178;
+  font-size: 80px;
+}
+.title{
+  text-align: center;
+}
